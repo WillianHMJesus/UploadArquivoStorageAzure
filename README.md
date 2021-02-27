@@ -1,5 +1,11 @@
-#UploadArquivoStorageAzure
+# UploadArquivoStorageAzure
 
-O Upload Arquivo Storage Azure é um projeto em código aberto criado em C# utizando o Azure.
+O Upload Arquivo Storage Azure é um projeto de estudo criado utilizando .NET.
 
-O objetivo desse projeto é realizar upload de arquivo na cloud assim utilizando os conhecimento adquiridos em sala de aula, na instituição FIAP, curso Arquitetura e Desenvolvimento na Plataforma .NET.
+O objetivo do estudo é realizar upload de arquivo no AzureStorage, utilizando os conhecimento adquiridos em sala de aula na instituição FIAP, curso MBA em Arquitetura e Desenvolvimento na Plataforma .NET.
+
+# Tecnologias Implementadas:
+
+- .NET Framework 4.6.1
+- ASP.NET MVC
+- Azure Storage
